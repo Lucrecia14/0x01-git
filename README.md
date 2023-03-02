@@ -1,0 +1,1 @@
+The purpose or objective of this project is to learn how to use GitHub and git command lines to create a repository, write good READMEs, how to commit, push the codes into repository, pull updates, create branches, merge branches, and work as a collaborator on a project.
